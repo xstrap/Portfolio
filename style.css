@@ -1,0 +1,9 @@
+img{
+    height: 400px;
+}
+.line{
+    height: 8px;
+    width: 70px;
+    background-color: black;
+    margin: 8px auto
+}
